@@ -5,7 +5,7 @@
 HOLD=hold
 DAYS=1096
 CURRENT=current
-DIR=/var/spool/mailarchive
+DIR=/var/mail/archive
 CP=xz
 CL=9
 
